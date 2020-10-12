@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/icon_settings"
+        android:title="Settings"
+        />
+
+    <item
+        android:id="@+id/action_player"
+        android:icon="@drawable/icon_person"
+        android:title="Player"
+        />
+</menu>

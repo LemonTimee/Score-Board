@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Board</string>
+    <string name="buttonNo">Okay</string>
+    <string name="buttonYes">Cancel</string>
+    <string name="title">Add New Player</string>
+    <string name="saved_player">Saved Player</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="finish">FINISH</string>
+    <string name="newGame">NEW</string>
+</resources>
