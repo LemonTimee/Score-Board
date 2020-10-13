@@ -6,9 +6,9 @@ This application, allows you to keep and record scores for board games and sport
 
 ## Screenshots
 
-<a href='https://user-images.githubusercontent.com/72441278/95848445-bf22a780-0d56-11eb-8ceb-a01863bb358c.png'><img alt='G' src='https://user-images.githubusercontent.com/72441278/95848445-bf22a780-0d56-11eb-8ceb-a01863bb358c.png' height="600"/></a>
-<a href='https://user-images.githubusercontent.com/72441278/95848568-e1b4c080-0d56-11eb-99fc-b5c40eb5bedb.png'><img alt='G' src='https://user-images.githubusercontent.com/72441278/95848568-e1b4c080-0d56-11eb-99fc-b5c40eb5bedb.png' height="600"/></a>
-<a href='https://user-images.githubusercontent.com/72441278/95852871-2c393b80-0d5d-11eb-87c9-b8234c60055f.png'><img alt='G' src='https://user-images.githubusercontent.com/72441278/95852871-2c393b80-0d5d-11eb-87c9-b8234c60055f.png' height="600"/></a>
+<a href='https://user-images.githubusercontent.com/72441278/95848445-bf22a780-0d56-11eb-8ceb-a01863bb358c.png'><img alt='G' src='https://user-images.githubusercontent.com/72441278/95848445-bf22a780-0d56-11eb-8ceb-a01863bb358c.png' height="500"/></a>
+<a href='https://user-images.githubusercontent.com/72441278/95848568-e1b4c080-0d56-11eb-99fc-b5c40eb5bedb.png'><img alt='G' src='https://user-images.githubusercontent.com/72441278/95848568-e1b4c080-0d56-11eb-99fc-b5c40eb5bedb.png' height="500"/></a>
+<a href='https://user-images.githubusercontent.com/72441278/95852871-2c393b80-0d5d-11eb-87c9-b8234c60055f.png'><img alt='G' src='https://user-images.githubusercontent.com/72441278/95852871-2c393b80-0d5d-11eb-87c9-b8234c60055f.png' height="500"/></a>
 
 
 ## Build With
